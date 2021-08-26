@@ -1,2 +1,9 @@
 # bunch-songs-downloader
 This program download all the songs in text file from the YouTube by just one click
+
+
+Small python script that will download any audio from youtube using youtube-dl. Create a text file on your desktop of the mixtape you want to create, give a title to your mixtape, and click download.
+
+
+# How do I use it?
+In order to use it, you must have youtube-dl installed. Also, you must be a windows user. Simply use the executable after installation.
